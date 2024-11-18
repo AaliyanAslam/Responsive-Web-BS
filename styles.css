@@ -30,7 +30,7 @@ height: 80vh;
 .card img 
 {
 
-    width: 60%;
-    height: 200px;
+   min-height: 50%;
+   max-height: 200px;
 
 }
